@@ -28,6 +28,7 @@
     "grunt-contrib-uglify": "^4.0.1",
     "grunt-eslint": "^22.0.0",
     "grunt-htmlhint": "^0.9.13",
+    "grunt-spritesmith": "^6.8.0",
     "istanbul": "^0.4.5",
     "mocha": "^7.1.0"
   }
